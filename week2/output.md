@@ -1,8 +1,7 @@
 # INFOMAN1 – Week 2 Lab: Conceptual ERD Case Study
 
 **Name:** Eli Felize Herreria  
-**Student ID:** [Your Student ID]  
-**Section:** [Your Section]  
+
 
 ## Task 1 — Candidate Entities
 
